@@ -48,3 +48,4 @@ involves the creation of a web-based application that leverages **RFID (Radio Fr
 - **Accuracy**: Fewer errors in item tracking and billing.
 - **Real-Time Updates**: Users see their shopping list evolve as they scan items.
 - **Enhanced Customer Experience**: A modern, tech-savvy approach to shopping.
+https://drive.google.com/file/d/1rBteng2Rwj1J0Wael4O0N-Uk-xgzNA_Q/view?usp=sharing
